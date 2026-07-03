@@ -1,0 +1,45 @@
+/* ===================================
+   Base Styles
+=================================== */
+
+body {
+    font-family: var(--font-primary);
+    font-size: var(--fs-body);
+    font-weight: var(--fw-regular);
+    line-height: 1.6;
+    color: var(--color-text);
+    background-color: var(--color-background);
+}
+
+/* ===================================
+   Typography
+=================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--color-heading);
+    font-weight: var(--fw-bold);
+}
+
+p {
+    line-height: 1.7;
+}
+
+/* ===================================
+   Layout
+=================================== */
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ===================================
+   Reusable Components
+=================================== */

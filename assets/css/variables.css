@@ -1,0 +1,58 @@
+:root {
+    /* ===========================
+       Colors
+    =========================== */
+
+    --color-primary: #B35AE6;
+
+    --color-background: #090B18;
+    --color-surface: #111322;
+    --color-surface-light: #1A1D2E;
+
+    --color-heading: #FFFFFF;
+    --color-text: #A5A8B6;
+    --color-border: #2A2E45;
+
+    /* ===========================
+       Typography
+    =========================== */
+
+    --font-primary: "Inter", sans-serif;
+
+    --fs-display: 5rem;
+    --fs-h1: 3rem;
+    --fs-h2: 2.5rem;
+    --fs-h3: 2rem;
+    --fs-body: 1.125rem;
+    --fs-small: 0.875rem;
+
+    /* ===========================
+       Font Weight
+    =========================== */
+
+    --fw-regular: 400;
+    --fw-medium: 500;
+    --fw-semibold: 600;
+    --fw-bold: 700;
+
+    /* ===========================
+       Border Radius
+    =========================== */
+
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-xl: 32px;
+
+    /* ===========================
+       Container
+    =========================== */
+
+    --container-width: 1200px;
+
+    /* ===========================
+       Transition
+    =========================== */
+
+    --transition: all .3s ease;
+}
